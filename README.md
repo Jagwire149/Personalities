@@ -15,7 +15,7 @@
 
         <div id="navigation">
             <ul>
-            <li><a href="Personalities.html">Personalities</a></li>
+            <li><a href="index.html">Personalities</a></li>
             <li><a href="Quotes.html">Quotes</a></li>
             <li><a href="References.html">References</a></li>
             </ul>
